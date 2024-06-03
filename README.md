@@ -25,7 +25,7 @@ https://youtu.be/ihKDeznyJWs
 # **_Trees On Sale Now_**
 
 
-| Deciduous  | Coniferous |
+| **_Deciduous_**  | **_Coniferous_** |
 | ------------- | ------------- |
 | English Oak  | Black Pine  |
 | Canadian Maple  | Aspen  |
