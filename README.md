@@ -21,3 +21,15 @@ https://youtu.be/ihKDeznyJWs
 
 
 ![download](https://github.com/ComradeCat08/Client-side-scripting/assets/167794377/1c79cf4f-9b47-43bb-b53e-6b77737d05bd)
+
+# **_Trees On Sale Now_**
+
+
+| Deciduous  | Coniferous |
+| ------------- | ------------- |
+| English Oak  | Black Pine  |
+| Canadian Maple  | Aspen  |
+| Siberian Fir | Cedar |
+| Giant Poplar | Conifer |
+| Mangrove | Spruce |
+| Crab Apple | Hemlock |
