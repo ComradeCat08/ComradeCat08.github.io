@@ -33,3 +33,16 @@ https://youtu.be/ihKDeznyJWs
 | Giant Poplar | Conifer |
 | Mangrove | Spruce |
 | Crab Apple | Hemlock |
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<h1>Why Not Check Out Other Tree Resources</h1>
+<p>https://www.greendrop.com/learn/7-simple-steps-to-keep-your-trees-healthy-thriving#:~:text=Regular%20trimming%2C%20watering%2C%20and%20fertilizing,overgrowth%2C%20and%20disease%20is%20crucial.</p>
+
+</body>
+</html>
+
