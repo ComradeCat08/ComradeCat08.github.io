@@ -25,14 +25,14 @@ https://youtu.be/ihKDeznyJWs
 # **_Trees On Sale Now_**
 
 
-| **_Deciduous_**  | **_Coniferous_** |
-| ------------- | ------------- |
-| English Oak  | Black Pine  |
-| Canadian Maple  | Aspen  |
-| Siberian Fir | Cedar |
-| Giant Poplar | Conifer |
-| Mangrove | Spruce |
-| Crab Apple | Hemlock |
+| **_Deciduous_**  | **_Coniferous_** | **_Fruit_** |
+| ------------- | ------------- | ------------- |
+| English Oak  | Black Pine  | Cherry |
+| Canadian Maple  | Aspen  | Orange |
+| Siberian Fir | Cedar | Apple |
+| Giant Poplar | Conifer | Grapefruit |
+| Mangrove | Spruce | Banana |
+| Crab Apple | Hemlock | Peach |
 
 <!DOCTYPE html>
 <html>
